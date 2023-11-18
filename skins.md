@@ -17,6 +17,8 @@ Cursor and Hitsounds transferred from **Moonshine 2.1**
 
 Removed one combo color (forget the exact hex code, but it's the yellow one as it interferred with my reading due to the new cursor)
 
+Made a separate variant for instafade hitcircles
+
 ## [』『《Gavin Aim Control》』『](https://drive.google.com/drive/u/0/folders/1uUS3HsW24smmYzDAqPX4lyuOuswOwq5I)
 ![](https://i.imgur.com/F7bk0u2.png)
 
