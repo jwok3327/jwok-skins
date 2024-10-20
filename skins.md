@@ -11,7 +11,7 @@ Discord: @jwok
 ## [- Everbloom Sakura (Yae Miko)](https://drive.google.com/file/d/1m3F-ELRUMzRCpySiVU3cPun3BjUESIN0/view) (My Lazer Skin)
 ![](https://i.imgur.com/Ch9kkUn.png)
 
-Of Note: The base skin I used is an edit of the original linked skin. I am unsure if the edit is public, but I got it from my friend [Ninaiya](https://twitch.tv/ninaiya)
+*Of Note: The base skin I used is an edit of the original linked skin. I am unsure if the edit is public, but I got it from my friend [Ninaiya](https://twitch.tv/ninaiya)*
 
 Changes: 
 
