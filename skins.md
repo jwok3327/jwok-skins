@@ -8,6 +8,21 @@ Let me know if any of the links break (or if you really want to know how I re/ma
 
 Discord: @jwok
 
+## [- Everbloom Sakura (Yae Miko)](https://drive.google.com/file/d/1m3F-ELRUMzRCpySiVU3cPun3BjUESIN0/view) (My Lazer Skin)
+![](https://i.imgur.com/Ch9kkUn.png)
+
+Of Note: The base skin I used is an edit of the original linked skin. I am unsure if the edit is public, but I got it from my friend [Ninaiya](https://twitch.tv/ninaiya)
+
+Changes: 
+
+Cursor is from **Moonshine 2.1 [DT]**
+
+Removed the yellow combo color (will not be in the linked skin)
+
+Hitsounds from a skin I forget
+
+Separated the elements of the **scorebar-bg** file (for proper use in lazer)
+
 ## [- 『Wintherest』 - v21022023](https://osu.ppy.sh/community/forums/topics/1498493?n=1)
 ![](https://i.imgur.com/MRMX3TQ.png)
 
