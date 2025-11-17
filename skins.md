@@ -15,7 +15,8 @@ Changes:
 
 Cursor is from **Moonshine 2.1**
 
-Hitsounds from [amanita](https://skins.osuck.net/skins/4445?v=0)
+Hitsounds from **[amanita](https://skins.osuck.net/skins/4445?v=0)**
+
 *I don't know if this is the original link to download the skin, so if there's a different link let me know and I will update this again*
 
 ## [- Everbloom Sakura (Yae Miko)](https://drive.google.com/file/d/1m3F-ELRUMzRCpySiVU3cPun3BjUESIN0/view) (My Lazer Skin)
