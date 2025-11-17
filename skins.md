@@ -8,6 +8,16 @@ Let me know if any of the links break (or if you really want to know how I re/ma
 
 Discord: @jwok
 
+## [Pastel NM v1.1](https://osu.ppy.sh/community/forums/topics/1959731?n=1)
+![](https://i.imgur.com/dv7X1Hh.png)
+
+Changes:
+
+Cursor is from **Moonshine 2.1**
+
+Hitsounds from [amanita](https://skins.osuck.net/skins/4445?v=0)
+*I don't know if this is the original link to download the skin, so if there's a different link let me know and I will update this again*
+
 ## [- Everbloom Sakura (Yae Miko)](https://drive.google.com/file/d/1m3F-ELRUMzRCpySiVU3cPun3BjUESIN0/view) (My Lazer Skin)
 ![](https://i.imgur.com/Ch9kkUn.png)
 
